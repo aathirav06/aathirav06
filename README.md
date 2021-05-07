@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aathirav06
 - 👀 I’m interested in Ui-Ux designing
 - 🌱 I’m currently pursuing my Bachelors of technology
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate in UI/UX Designing
 - 📫 Feel free to contact me in aathiravarma06@gmail.com
                             
 
