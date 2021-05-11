@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aathirav06
+- 👋 Hi, I’m Aathira
 - 👀 I’m interested in Ui-Ux designing
 - 🌱 I’m currently pursuing my Bachelors of technology
 - 💞️ I’m looking to collaborate in UI/UX Designing
