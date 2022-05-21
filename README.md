@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aathira
-- 👀 I’m interested in Ui-Ux designing
+- 👀 I’m interested in frontend designing
 - 🌱 I’m currently pursuing my Bachelors of technology
 - 💞️ I’m looking to collaborate in UI/UX Designing
 - 📫 Feel free to contact me in aathiravarma06@gmail.com
